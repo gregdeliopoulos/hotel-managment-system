@@ -1,4 +1,4 @@
-# hotel-managment-system
+# Hotel Management System
 A simple <b>Hotel Management System</b>, which handles Reservations, Bar Orders and Extra Activities.  
 This project has been made for academic purposes, and specifically built to comply with the Assignment Requirements of the "Software Technology" course.  
 
